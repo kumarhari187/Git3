@@ -23,14 +23,14 @@ public class Main {
 
 		System.out.println("TEXT 4");
 		
-<<<<<<< HEAD
+
 
 		System.out.println("Text 4");
 		
 		System.out.println("Text 5");
-=======
+
 		System.out.println("TEXT 5");
->>>>>>> refs/heads/allCaps
+
 
 		
 	}
