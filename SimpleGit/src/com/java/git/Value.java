@@ -6,8 +6,13 @@ public class Value {
 
 	public void display() {
  
-		System.out.println("This is Display.java");
+		System.out.println("Display.java");
  
+		for(int i : data)
+		
+		System.out.println("This is :" + i);
+		
+		
 	}
 	
 	
