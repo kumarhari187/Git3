@@ -15,18 +15,16 @@ public class Main {
 		
 		System.out.println("This is Main.java");
 		
-		System.out.println("Text 1");
+		System.out.println("TEXT 1");
 		
-		System.out.println("Text 2");
+		System.out.println("TEXT 2");
 		
-		System.out.println("Text 3");
+		System.out.println("TEXT 3");
+
+		System.out.println("TEXT 4");
 		
-<<<<<<< HEAD
-=======
-		System.out.println("Text 4");
-		
-		System.out.println("Text 5");
->>>>>>> refs/heads/Add
+		System.out.println("TEXT 5");
+
 		
 	}
 		
