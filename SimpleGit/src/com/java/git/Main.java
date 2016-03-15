@@ -19,6 +19,12 @@ public class Main {
 		
 		System.out.println("Text 2");
 		
+		System.out.println("Text 3");
+		
+		System.out.println("Text 4");
+		
+		System.out.println("Text 5");
+		
 	}
 		
 		
