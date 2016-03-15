@@ -17,6 +17,7 @@ public class Main {
 		
 		System.out.println("Text 1");
 		
+		System.out.println("Text 2");
 		
 	}
 		
