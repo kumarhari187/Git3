@@ -10,7 +10,7 @@ public class Value {
  
 		for(int i : data)
 		
-		System.out.println("This is :" + i);
+		System.out.println("This :" + i);
 		
 		
 	
