@@ -13,6 +13,12 @@ public class Value {
 		System.out.println("This is :" + i);
 		
 		
+	
+	for(int i : data)
+		
+		System.out.println("This is :" + i);
+		
+		
 	}
 	
 	
