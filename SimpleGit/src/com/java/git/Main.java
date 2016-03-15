@@ -21,6 +21,12 @@ public class Main {
 		
 		System.out.println("Text 3");
 		
+<<<<<<< HEAD
+=======
+		System.out.println("Text 4");
+		
+		System.out.println("Text 5");
+>>>>>>> refs/heads/Add
 		
 	}
 		
